@@ -2,7 +2,7 @@
 
 # Hi, I'm Ahmed Amine Touahria 👋
 
-Full developer and freelancer, holder of a higher degree in computer systems, mastered in web development and have experience in user experience design
+Full developer and freelancer, ai student, mastered in web development and have experience in user experience design
 
 - 🔭 Currently working on all things WEB ( BACK-END / FRONT END / APIs DESIGN)
 - 🌱 Learning anything I can get my hands on!
